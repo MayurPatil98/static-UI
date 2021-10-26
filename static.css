@@ -1,0 +1,68 @@
+#div1
+{
+    width: 100%;
+    background-color: fuchsia;
+    height: 150px;
+}
+#div2
+{
+    width: 15%;
+    background-color: brown;
+    height: 200px;
+    float: left;
+}
+#div3
+{
+    width: 70%;
+    background-color: burlywood;
+    height: 200px;
+    float: left;
+}
+#div4
+{
+    width: 15%;
+    background-color: brown;
+    height: 200px;
+    float: left;
+}
+#div5
+{
+    width: 50%;
+    background-color: coral;
+     height: 150px;
+    clear: both;
+    float: left;
+}
+#div6
+{
+    width: 50%;
+    background-color: darkgoldenrod;
+     height: 150px;
+    float: left;
+}
+#div7
+{
+    clear: both;
+    width: 100%;
+    background-color: mediumorchid;
+     height: 150px;
+}
+li
+{
+    list-style-type: none;
+    float: left;
+}
+.headinga
+{ 
+    display: block;
+    background-color: blueviolet;
+    color: white;
+    padding: 25px;
+    margin-left: 25px;
+    border-radius: 25px;
+    text-decoration: none;
+}
+.headinga:hover
+{
+    background-color: black;
+}
